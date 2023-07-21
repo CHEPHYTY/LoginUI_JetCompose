@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LoginUIProjectTutorial</string>
+
+    <string name="hello">Hey,There</string>
+    <string name="Create_Account">Create an Account</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Enter E-Mail</string>
+    <string name="password">Enter password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="terms_and_conditions"><![CDATA[By continuing you accept out Privacy Policy and Terms & Condition]]></string>
+    <string name="terms_and_conditions_header">Terms of Use</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or">OR</string>
+    <string name="here">Click Here</string>
+
+
+</resources>
